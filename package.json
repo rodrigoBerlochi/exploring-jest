@@ -1,0 +1,22 @@
+{
+  "name": "jest-vsc-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoBerlochi/exploring-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoBerlochi/exploring-jest/issues"
+  },
+  "homepage": "https://github.com/rodrigoBerlochi/exploring-jest#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
